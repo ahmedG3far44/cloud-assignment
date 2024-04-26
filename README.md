@@ -20,7 +20,7 @@
    ```
    docker run --name <container_name> -d <name-your-image>
    ```
-# console output of the removed stopwords :
+# console output :
 ![log 1](https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/07873516-cd04-4d3a-8a97-f2d7fda02eab)
 
 ![log 2](https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/be38131d-12ee-4762-9110-351c7ca68c94)
