@@ -21,6 +21,7 @@
    docker run --name <container_name> -d <name-your-image>
    ```
 # console output :
-  <img src="https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/07873516-cd04-4d3a-8a97-f2d7fda02eab" width="1000"/>
-  <img src="https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/be38131d-12ee-4762-9110-351c7ca68c94" width="1000"/>
+  <img src="https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/07873516-cd04-4d3a-8a97-f2d7fda02eab" width="900"/>
+  <hr>
+  <img src="https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/be38131d-12ee-4762-9110-351c7ca68c94" width="900"/>
 
