@@ -22,6 +22,6 @@
    ```
 # console output :
   <img src="https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/07873516-cd04-4d3a-8a97-f2d7fda02eab" width="900"/>
-  <hr>
+  <br>
   <img src="https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/be38131d-12ee-4762-9110-351c7ca68c94" width="900"/>
 
