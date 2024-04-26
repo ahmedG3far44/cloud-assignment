@@ -13,10 +13,10 @@ uploading cloud computing assignment to dockerize a python application that is u
   ```
   docker build -t <name-your-image> .
   ```
-  - To run your container:
-    ```
-    docker run --name <container_name> -d <name-your-image>
-    ```
+- To run your container:
+  ```
+  docker run --name <container_name> -d <name-your-image>
+  ```
 # console output:
 ![log 1](https://github.com/ahmedG3far44/cloud-assignment/assets/96004565/07873516-cd04-4d3a-8a97-f2d7fda02eab)
 
