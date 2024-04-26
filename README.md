@@ -11,7 +11,7 @@
 - make sure the docker engine desktop is running before run this commands.
 - To build your image :
   
-   exmpale: docker build  -t  my-python-application-image  .
+   ex:  docker build  -t  my-python-application-image  .
    ```
    docker build -t <name-your-image> .
    ```
